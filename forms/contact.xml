@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+    <fields name="contact">
+        <fieldset name="details" label="Téléphone">
+            <field 
+                name="contact_telephone" 
+                type="text"
+                label="COM_CONTACT_TELEPHONE_LABEL" 
+                description="Entrez votre numéro de téléphone"
+                required="true"
+                filter="string"
+                size="15"
+            />
+        </fieldset>
+    </fields>
+</form>
