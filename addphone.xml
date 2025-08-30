@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" group="content" method="upgrade">
+    <name>plg_content_addphone</name>
+    <version>1.0.0</version>
+    <description>Ajoute un champ téléphone au formulaire com_contact</description>
+    <files>
+        <filename plugin="addphone">addphone.php</filename>
+        <folder>forms</folder>
+    </files>
+</extension>
