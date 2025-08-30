@@ -2,7 +2,7 @@
 <extension type="plugin" group="system" method="upgrade" version="5.0">
     <name>Personalisation du formulaire de contact</name>
     <author>Arnaud D.</author>
-    <date>2025-09-01</date>
+     <creationDate>2025-08-30</creationDate>
     <version>1.0.0</version>
     <description>Ajoute un champ au formulaire de contact com_contact</description>
     <files>
